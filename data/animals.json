@@ -126,6 +126,18 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "Karl",
+      "species": "Monkey",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "anxious",
+        "loving"
+      ],
+      "id": "13"
     }
   ]
 }
